@@ -1,0 +1,41 @@
+/* 災禍の跡形 */
+.atogata {
+  width: 80px;
+  height: 80px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+/* .squere-p { background-image: url('../images/event/squere_p.jpeg'); } */
+.squere-b { background-image: url('../images/event/squere_b.webp'); }
+.squere-g { background-image: url('../images/event/squere_g.jpeg'); }
+.squere-y { background-image: url('../images/event/squere_y.webp'); }
+.squere-r { background-image: url('../images/event/squere_r.webp'); }
+.shape-p { background-image: url('../images/event/shape_p.jpeg'); }
+.shape-b { background-image: url('../images/event/shape_b.jpeg'); }
+.shape-g { background-image: url('../images/event/shape_g.jpeg'); }
+.shape-y { background-image: url('../images/event/shape_y.jpeg'); }
+.shape-r { background-image: url('../images/event/shape_r.jpeg'); }
+.wave-p { background-image: url('../images/event/wave_p.jpeg'); }
+.wave-b { background-image: url('../images/event/wave_b.jpeg'); }
+.wave-g { background-image: url('../images/event/wave_g.jpeg'); }
+.wave-y { background-image: url('../images/event/wave_y.jpeg'); }
+.wave-r { background-image: url('../images/event/wave_r.jpeg'); }
+.round-p { background-image: url('../images/event/round_p.jpeg'); }
+.round-b { background-image: url('../images/event/round_b.jpeg'); }
+.round-g { background-image: url('../images/event/round_g.jpeg'); }
+.round-y { background-image: url('../images/event/round_y.jpeg'); }
+.round-r { background-image: url('../images/event/round_r.jpeg'); }
+.hex-r { background-image: url('../images/event/hex-r.png'); }
+.hex-y { background-image: url('../images/event/hex-y.webp'); }
+.hex-g { background-image: url('../images/event/hex-g.webp'); }
+
+/* boss */
+.deidara { background-image: url('../images/event/deidarakaina.jpeg'); }
+.amatu { background-image: url('../images/event/amatunami.jpeg'); }
+.rasen { background-image: url('../images/event/rasendouji.jpeg'); }
+.guren { background-image: url('../images/event/gurengouga.jpeg'); }
+.masamune { background-image: url('../images/event/masamune.jpeg'); }
+.zakuro { background-image: url('../images/event/zakuro.jpeg'); }
+.hoozuki { background-image: url('../images/event/hoozuki.png'); }
+.inaduma { background-image: url('../images/event/inaduma.png'); }
+.orisiro { background-image: url('../images/event/orisiro.png'); }

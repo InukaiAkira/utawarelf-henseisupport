@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# timestamp: 2022/08/30
+
+CACHE:
+
+NETWORK:
+*.html
+
+#FALLBACK:
+
+#SETTINGS:
+#prefer-online

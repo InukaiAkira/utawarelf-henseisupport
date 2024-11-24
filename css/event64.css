@@ -1,0 +1,43 @@
+@import url(variable-event.css);
+
+/* 災禍の跡形 */
+.atogata {
+  width: 80px;
+  height: 80px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+/* .squere-p { background-image: var(--squere_p); } */
+.squere-b { background-image: var(--squere_b); }
+.squere-g { background-image: var(--squere_g); }
+.squere-y { background-image: var(--squere_y); }
+.squere-r { background-image: var(--squere_r); }
+.shape-p { background-image: var(--shape_p); }
+.shape-b { background-image: var(--shape_b); }
+.shape-g { background-image: var(--shape_g); }
+.shape-y { background-image: var(--shape_y); }
+.shape-r { background-image: var(--shape_r); }
+.wave-p { background-image: var(--wave_p); }
+.wave-b { background-image: var(--wave_b); }
+.wave-g { background-image: var(--wave_g); }
+.wave-y { background-image: var(--wave_y); }
+.wave-r { background-image: var(--wave_r); }
+.round-p { background-image: var(--round_p); }
+.round-b { background-image: var(--round_b); }
+.round-g { background-image: var(--round_g); }
+.round-y { background-image: var(--round_y); }
+.round-r { background-image: var(--round_r); }
+.hex-r { background-image: var(--hex-r); }
+.hex-y { background-image: var(--hex-y); }
+.hex-g { background-image: var(--hex-g); }
+
+/* boss */
+.deidara { background-image: var(--deidarakaina); }
+.amatu { background-image: var(--amatunami); }
+.rasen { background-image: var(--rasendouji); }
+.guren { background-image: var(--gurengouga); }
+.masamune { background-image: var(--masamune); }
+.zakuro { background-image: var(--zakuro); }
+.hoozuki { background-image: var(--hoozuki); }
+.inaduma { background-image: var(--inaduma); }
+.orisiro { background-image: var(--orisiro); }

@@ -1,0 +1,14 @@
+@import url(variable.css);
+
+.form { background-image: var(--form); }
+.slot { background-image: var(--slot_off); }
+.slot.on { background-image: var(--slot_on); }
+.form-u { background-image: var(--form_u); }
+.form-s { background-image: var(--form_s); }
+.rengeki_tl1 { background-image: var(--連撃TL1);}
+.rengeki_tl2 { background-image: var(--連撃TL2);}
+.rengeki_tl3 { background-image: var(--連撃TL3);}
+.rengeki_tl32 { background-image: var(--連撃TL32);}
+.rengeki1 { background-image: var(--連撃1);}
+.rengeki2 { background-image: var(--連撃2);}
+.rengeki3 { background-image: var(--連撃3);}

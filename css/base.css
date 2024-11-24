@@ -1,0 +1,17 @@
+body {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.ddin {
+  animation: opacityChange .7s infinite alternate;
+}
+
+@keyframes opacityChange {
+  50% { opacity: 1; }
+  100% { opacity: .5; }
+}

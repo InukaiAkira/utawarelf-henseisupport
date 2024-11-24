@@ -1,0 +1,12 @@
+.form { background-image: url('../images/form.png'); }
+.slot { background-image: url('../images/slot_off.png'); }
+.slot.on { background-image: url('../images/slot_on.png'); }
+.form-u { background-image: url('../images/form_u.jpeg'); }
+.form-s { background-image: url('../images/form_s.png'); }
+.rengeki_tl1 { background-image: url('../images/連撃TL1.png');}
+.rengeki_tl2 { background-image: url('../images/連撃TL2.png');}
+.rengeki_tl3 { background-image: url('../images/連撃TL3.png');}
+.rengeki_tl32 { background-image: url('../images/連撃TL32.png');}
+.rengeki1 { background-image: url('../images/連撃1.png');}
+.rengeki2 { background-image: url('../images/連撃2.png');}
+.rengeki3 { background-image: url('../images/連撃3.png');}

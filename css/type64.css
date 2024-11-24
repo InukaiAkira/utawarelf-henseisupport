@@ -1,0 +1,18 @@
+@import url("variable-type.css");
+
+.v {background-image: var(--無);}
+.f {background-image: var(--火);}
+.wa {background-image: var(--水);}
+.wi {background-image: var(--風);}
+.e {background-image: var(--土);}
+.l {background-image: var(--光);}
+.d {background-image: var(--闇);}
+.fwawie {background-image: var(--火水風土);}
+.dl {background-image: var(--闇光);}
+.fl {background-image: var(--火光);}
+.wad {background-image: var(--水闇);}
+.vd {background-image: var(--無闇);}
+.wie {background-image: var(--風土);}
+.in-fight {background-image: var(--近接);}
+.out-range {background-image: var(--遠隔);}
+.in-out {background-image: var(--遠近両用);}
