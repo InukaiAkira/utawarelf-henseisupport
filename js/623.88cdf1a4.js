@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkfront"]=self["webpackChunkfront"]||[]).push([[623],{2623:function(t,n,e){e.r(n),n["default"]={option:{1:"ラセンドウジ/対抗Lv999+"},data:{1:{"ラセンドウジ":[],"風神の残兇":[]}}}}}]);
